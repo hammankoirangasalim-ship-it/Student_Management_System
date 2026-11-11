@@ -6,7 +6,7 @@ print("1. Add Student")
 print("2. View Students")
 print("3. Search Students")
 print("4. Delete Students")
-print("5. Exit")
+print("5. delete")
 
 choice = input("Enter your choice (1-5): ")
 
@@ -27,3 +27,5 @@ elif choice == "5":
 
 else:
     print("Invalid Choice")
+
+print("project completed successfully")
