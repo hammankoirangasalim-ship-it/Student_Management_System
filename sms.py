@@ -29,3 +29,7 @@ else:
     print("Invalid Choice")
 
 print("project completed successfully")
+
+
+print("Saalim Hamman Koiranga")
+print("Modibbo Adama University, Yola")
