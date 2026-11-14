@@ -32,7 +32,5 @@ print("project completed successfully")
 
 
 print("Saalim Hamman Koiranga")
-print("Modibbo Adama University, Yola, Nigeria")
-print("November 2026")
-
-print("End Of Session")
+print("Federal University Of Technology, Yola, Nigeria")
+print("November 2005")
